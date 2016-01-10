@@ -1,0 +1,3 @@
+The copyright is reserved by Lili Zhao, Kuan Li, Mao Wang, Jianping Yin.If you have any questions, please do not hesitate to contact Lili Zhao. Email address : yilinzhaohenan@126.com  (Lili Zhao).This project just is used for academic research.If you use this codes in your work, you must cite:"Automatic Cytoplasm and Nuclei Segmentation for Color Cervical Smear Image 
+using an efficient Gap-search MRF ". If the codes use for commercial application, you must contact the first author. 
+2016.01.10
